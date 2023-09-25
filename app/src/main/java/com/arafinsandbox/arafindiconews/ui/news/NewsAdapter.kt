@@ -26,6 +26,7 @@ class ListNewsAdapter(private val listNews: ArrayList<News>) :
         val newsImage: ImageView = itemView.findViewById(R.id.news_image)
         val newsTitle: TextView = itemView.findViewById(R.id.news_title)
         val newsDate: TextView = itemView.findViewById(R.id.news_date)
+        val newsOverview: TextView = itemView.findViewById(R.id.news_article_overview)
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): NewsViewHolder {
@@ -37,11 +38,13 @@ class ListNewsAdapter(private val listNews: ArrayList<News>) :
     override fun getItemCount(): Int = listNews.size
 
     override fun onBindViewHolder(holder: NewsViewHolder, position: Int) {
-        val (title, image, date) = listNews[position]
+        val (title, image, date, _, article) = listNews[position]
 
         holder.newsImage.setImageResource(image)
         holder.newsTitle.text = title
         holder.newsDate.text = date
+        holder.newsOverview.text = article
+
 
         holder.itemView.setOnClickListener {
             onItemClickCallback.onItemClicked(listNews[holder.adapterPosition])
