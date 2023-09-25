@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Arafin Dico News</string>
+    <string name="dummy_date">24 September 2023</string>
+    <string name="dummy_title">Ini merupakan testing judul. Overflow? Jadi ellipsis kok! :D</string>
+    <string name="menu_profile">Profile</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut commodo dolor. Donec eleifend, nunc et sodales malesuada, felis lacus interdum mi, quis scelerisque odio nulla nec ipsum. Curabitur augue quam, efficitur nec luctus a, accumsan congue nisi. Aenean ultrices lacinia risus nec condimentum.</string>
+    <string name="dummy_name">Akmal Rafi .N</string>
+    <string name="dummy_email">akmalrafi81@gmail.com</string>
+    <string name="title_profile">Profile</string>
+    <string name="dummy_tags">Racing, Automotive, Sport</string>
+
+    <!--    Array untuk membuat dummy artikel-->
+    <string-array name="news_title">
+        <item>Gambar Ilustrasi: Pengertian dan Fungsinya</item>
+        <item>Menggambar Ilustrasi: Pengertian dan Sejarah Ilustrasi</item>
+        <item>Mengenal Reduce, Reuse, Recycle, dan Manfaatnya</item>
+        <item>Dibuang Sayang, Yuk Bikin Kerajinan Tangan dari Botol Plastik untuk Selamatkan Lingkungan</item>
+        <item>Trending YouTube, Ini Lirik Lagu Ajarkan Aku - Arvian Dwi</item>
+        <item>Coming Home with Leila Chudori: Dari Generasi Ketiga, Setelah Amy Tan dan Ha Jin</item>
+        <item>Novia Tersingkir dari Indonesian Idol Setelah Dapat 5 Standing Ovation</item>
+        <item>Jokowi Mau Gelar Balapan F1 di Indonesia pada Tahun Depan</item>
+        <item>F1 PowerBoat di Danau Toba Siap Digelar, Sandiaga: Dapat Tarik Kunjungan 25.000 Wisatawan</item>
+        <item>Kondisi Beckham Putra Jelang Bela Timnas Indonesia di Asian Games 2022</item>
+        <item>Timnas Indonesia ke 16 Besar Asian Games 2022, Sananta dan Beckham Gabung</item>
+        <item>Logistik dari Barcelona untuk MotoGP Indonesia 2023 Tiba di Mandalika</item>
+    </string-array>
+
+    <integer-array name="news_image">
+        <item>@drawable/image_news_1</item>
+        <item>@drawable/image_news_2</item>
+        <item>@drawable/image_news_3</item>
+        <item>@drawable/image_news_4</item>
+        <item>@drawable/image_news_5</item>
+        <item>@drawable/image_news_6</item>
+        <item>@drawable/image_news_7</item>
+        <item>@drawable/image_news_8</item>
+        <item>@drawable/image_news_9</item>
+        <item>@drawable/image_news_10</item>
+        <item>@drawable/image_news_11</item>
+        <item>@drawable/image_news_12</item>
+    </integer-array>
+
+    <string-array name="news_date">
+        <item>30 Desember 2023</item>
+        <item>25 Desember 2023</item>
+        <item>25 Desember 2023</item>
+        <item>24 Desember 2023</item>
+        <item>21 Desember 2023</item>
+        <item>20 November 2023</item>
+        <item>20 November 2023</item>
+        <item>17 November 2023</item>
+        <item>14 November 2023</item>
+        <item>11 Oktober 2023</item>
+        <item>8 September 2023</item>
+        <item>3 September 2023</item>
+    </string-array>
+
+    <string-array name="news_category">
+        <item>Ilustrasi, Desain</item>
+        <item>Buku, Panduan</item>
+        <item>Daur Ulang, Lingkungan, Global Warming</item>
+        <item>Kreativitas, Daur Ulang</item>
+        <item>Musik, Lagu, Arvian Dwi, Artis</item>
+        <item>Coming Home</item>
+        <item>Indonesian Idol, Musik, Kompetisi</item>
+        <item>Formula 1, F1, Otomotif</item>
+        <item>F1, PowerBoat, Danau Toba, Otomotif</item>
+        <item>Sepak Bola, Timnas</item>
+        <item>Sepak Bola, Timnas</item>
+        <item>MotoGP, Otomotif</item>
+    </string-array>
+
+    <string-array name="news_article">
+        <item>Dilansir dari situs Kementerian Pendidikan dan Kebudayaan (Kemdikbud), gambar ilustrasi adalah karya seni rupa dua dimensi. Karya ini dibuat untuk memperjelas sebuah maksud, baik dari segi jalannya cerita, narasi, dan atau pesan. Pengertian gambar ilustrasi adalah visualisasi karya lewat menggambar dan melukis suatu pesan agar bisa dipahami dengan baik. Menurut Arina Restian dalam buku Pendidikan Seni Rupa Estetik (2020), gambar ilustrasi yang baik adalah gambar yang bisa menyampaikan sebuah pesan secara jelas.</item>
+        <item>Illustrasi berasal dari bahasa Latin illustrare yang artinya menjelaskan atau menerangkan suatu peristiwa atau kejadian. Ilustrasi di Indonesia sudah dikenal sejak lama. Dikutip Jurnal Peran dan Perkembangan Ilustrasi (2012) karya Joneta Witabora, bahwa jejak awal ilustrasi terlihat dari catatan visual pada gua, penemuan manuskrip abad pertengahan hingga buku-buku dan koran abad ke 15 sampai 18 yang menggunakan teknik cukil kayu, cetak tinggi, etsa dan litografi.
+
+        Setelah manusia mengenal tulisan, mulailah ilustrasi dibuat pada daun lontar menyertai teks yang berisi ajaran-ajaran tertentu. Seni ilustrasi modern baru berkembang sejak masa penjajahan Belanda.
+
+        Pada 1917, bermunculan ilustrator-ilustrator Indonesia yang bekerja di Penerbit Balai Pustaka, Sekitar 1890-1920 ilustrasi mengalami masa keemasan ketika revolusi industri, ketika hadirnya mesin cetak membuat media cetak menjadi media komunikasi utama. Ilustrasi menjadi elemen penting dalam dunia iklan dan percetakan. Para ilustrator memiliki kesempatan bereksperimen dalam hal warna dan rendering menggunakan kemajuan teknologi.
+        </item>
+        <item>Jumlah sampah terus bertembah seiring dengan berjalannya waktu. Jika tidak ditanggulangi, maka bukan hal yang tak mungkin jika sampah memenuhi seluruh permukaan Bumi. Oleh karena itu manusia mulai melaukan pengelolaan sampah. Dalam pengelolaan sampah dikenal prinsip 3R yaitu reduce, reuse, dan recycle. Apakah pengertian sesungguhnya dari prinsip 3R dan apa manfaatnya bagi kehidupan?</item>
+        <item>Perlu diketahui, botol plastik merupakan salah satu sampah yang butuh ratusan bahkan ribuan tahun untuk terurai oleh tanah. Jika tidak terurai, botol plastik juga menyebabkan pencemaran tanah. Di sisi lain, masyarakat juga kerap membakar sampah botol plastik untuk menghindari pencemaran pada tanah. Namun, tahukah Anda bahwa hal ini justru menimbulkan pencemaran pada udara yang dihirup? Pembakaran botol plastik dapat menghasilkan asap toksik yang merusak kesehatan. Melihat bahaya sampah botol plastik pada lingkungan, masyarakat harus mengurangi penggunaanya. Namun, jika penggunaannya tidak terhindarkan, cobalah untuk memutar otak memanfaatkannya atau menyulapnya menjadi barang berharga.</item>
+        <item>Semua yang kumau, hanya sedikit waktumu, untukku Hanya satu pesan singkat, sedang apa dirimu? Awal pertemuan kau sangat peka padaku, dan itu dulu Rasa yang terlanjur dalam, kau buatku semakin bodoh Oh mengapa harus kulihat kau dengan dirinya Terluka tapi tak berdarah Ajarkan aku cara tuk melupakanmu Bila membencimu tak pernah cukup tuk hilangkan kamu Ajarkan aku, sebelum merusak ke dalam-dalamnya Sebelum aku trauma mencintai sosok yang baru lagi Awal pertemuan kau sangat peka padaku, dan itu dulu Rasa yang terlanjur dalam, kau buatku semakin bodoh Oh mengapa harus kulihat kau dengan dirinya Terluka tapi tak berdarah Ajarkan aku cara tuk melupakanmu Bila membencimu tak pernah cukup tuk hilangkan kamu Ajarkan aku, sebelum merusak ke dalam-dalamnya Sebelum aku trauma mencintai sosok yang baru lagi Tak tahu bagaimanakah caranya Agar diriku bisa lupakanmu Ajarkan aku cara tuk melupakanmu Bila membencimu tak pernah cukup tuk hilangkan kamu Ajarkan aku, sebelum merusak ke dalam-dalamnya Sebelum aku trauma Mencintai (mencintai) Mencintai Mencintai sosok yang baru lagi</item>
+        <item>Di dalam lemari saya tentu saja banyak sekali karya sastrawan Tionghoa dari daratan seperti Yu Hua (yang sudah diterjemahkan oleh Gramedia Pustaka Utama), Su Tong, Yu Hua dan Mo Yan (peraih Hadiah Nobel Sastra 2012). Demikian juga karya-karya penulis Tionghoa diaspora yang menetap di Amerika Serikat dan menulis dalam bahasa Inggris, seperti Amy Tan, Anchee Min, dan Ha Jin.
+
+        Nama Xuan Juliana Wang masih sangat baru dan segar. Lahir di Heilongjiang, China, tahun 1985, keluarga Wang migrasi ke Los Angeles ketika Juliana berusia tujuh tahun. Jika sastrawan Ha Jin adalah seorang eksil yang kini menetap di AS, Amy Tan adalah generasi kedua yang orangtuanya migran ke AS dan Xuan Juliana adalah generasi ketiga migran yang karya-karyanya mulai jauh dari politik dan kekerasan. Jika karya-karya Ha Jin dan Anchee Min hampir selalu memiliki latar belakang sejarah dan politik, Amy Tan selalu menceritakan hubungan antara ibu dan anak hingga tiga generasi, maka Xuan Juliana Wang memang bisa dikatakan sebagai "penulis generasi milenial".</item>
+        <item>Novia tampil powerfull dengan nuansa rock di lagu tersebut. Suaranya tetap stabil meski bergerak ke sana dan ke mari. Novia menjadi penampil pertama yang mendapatkan 5 standing ovation. Kelima juri memuji penampilan Novia di atas panggung spektakuler. "Saya senang banget lihat penampilan kamu malam hari ini. Mungkin masih tiga peserta lagi (belum tampil), tapi dari tiga perserta ini, kamu masih memberikan yang terbaik di penampilanmu," ucap juri Judika mengomentari penampilan Novia.
+        </item>
+        <item>Setelah World Superbike, Formula E, dan MotoGP, balapan Formula 1 kabarnya sedang dijajaki untuk bisa digelar di Indonesia. Presiden Joko Widodo mengatakan, pemerintah tengah menyiapkan tim agar bisa membawa gelaran balap Formula 1 ke Tanah Air. Hal ini diungkapkan Jokowi di sela-sela gelaran F1 H2O/Powerboat di Pelabuhan Muliaraja Napitupulu Balige, Kabupaten Toba, Provinsi Sumatera Utara, Minggu (26/2/2023).
+
+        "Kita juga ingin menarik Formula 1 untuk juga masuk ke Indonesia, mungkin tahun depan. Ini baru penjajakan, baru menyiapkan tim untuk menuju ke sana," ujar Jokowi, dikutip dari tayangan YouTube Sekretariat Presiden (26/2/2023). Menurutnya, semua gelaran berpeluang untuk dijajaki. Namun, membawa ajang-ajang besar untuk bertanding di Indonesia bukanlah perkara yang mudah. Jokowi juga berharap nantinya akan ada pebalap atau tim dari Indonesia yang bisa ikut berpartisipasi pada ajang balapan internasional seperti pada MotoGP, F1, atau F1H2O/Powerboat.
+        </item>
+        <item>Menteri Pariwisata dan Ekonomi Kreatif (Menparekraf) Sandiaga Salahuddin Uno mengatakan, persiapan gelaran olahraga air terbesar dunia F1 PowerBoat telah memasuki tahap akhir.
+
+“Pelaksanaan ini terpantau sudah berjalan sesuai dengan rencana mulai dari (pembangunan) dry paddock dan wet paddock," katanya dalam "Weekly Brief with Sandi Uno" yang digelar hibrida di Gedung Sapta Pesona, Jakarta, Senin (13/2/2023).
+
+Sandiaga pun memastikan, balap powerboat (jet air) dengan level tertinggi di dunia (seperti MotoGP) tersebut siap digelar pada 24 hingga 26 Februari 2023 di Destinasi Pariwisata Super Prioritas (DPSP) Danau Toba, Sumatera Utara.
+
+"Tinggal 11 hari lagi, jadi tolong dipromosikan bersama. Ini (F1 PowerBoat) akan digelar di kawasan Pelabuhan Mulia Raja Napitupulu, Balige, Kabupaten Toba. Gelaran F1 PowerBoat ditargetkan dapat menarik kunjungan 25.000 wisatawan mulai dari atlet, official, kru, dan lainnya” ujarnya dalam siaran pers, Rabu (15/2/2023).</item>
+        <item>Timnas Indonesia dipastikan tampil pada babak 16 besar Asian Games 2022 Hangzhou, China.  Tim asuhan Indra Sjafri lolos sebagai salah satu dari empat tim peringkat tiga terbaik.
+
+Selanjutnya, timnas U24 Indonesia akan berhadapan dengan Uzbekistan atau Hong Kong di fase gugur pada Kamis (28/9/2023).  Menyongsong laga tersebut, Sumardji, selaku Kepala Badan Tim Nasional (BTN), menginformasikan bahwa Indonesia akan mendapatkan tambahan kekuatan. Ramadhan Sananta (Persis) dan Beckham Putra (Persib) akan menyusul dan bergabung dengan timnas U24 Indonesia. Sananta tak mendapatkan izin dari klubnya Persis Solo, sementara Beckham mengalami cedera.  Rencananya, Sananta dan Beckham akan diberangkatkan pada Selasa (26/9/2023) dini hari menuju China.  Dihubungi melalui pesan singkat, Beckham mengutarakan kondisi terkininya.</item>
+        <item>Timnas Indonesia dipastikan punya amunisi tambahan untuk mengarungi 16 besar Asian Games 2022. Ramadhan Sananta dan Beckham Putra bergabung dengan skuad Indra Sjafri. Timnas U24 Indonesia asuhan Indra Sjafri telah memastikan lolos ke 16 besar cabang olahraga sepak bola pria Asian Games 2022.  Tiket ke 16 besar diraih Garuda Muda via jalur peringkat tiga terbaik.
+
+Pada fase gugur nanti, timnas Indonesia akan berhadapan dengan Uzbekistan atau Hong Kong.  Menyongsong laga tersebut, Indonesia dipastikan bisa menambah kedalaman skuad. Dua pemain yang sejatinya sudah didaftarkan Indra Sjafri, yakni Ramadhan Sananta (Persis Solo) dan Beckham Putra (Persib) siap menyusul dan bergabung dengan tim. "Nanti malam Sananta dan Beckham berangkat ke China," ucap Sumardji, Ketua BTN (Badan Tim Nasional), pada Senin (25/9/2023), dikutip dari Bolasport.com.
+</item>
+        <item>Logistik dari Dorna Sports untuk ajang MotoGP 2023 yang akan berlangsung di Pertamina Mandalika International Circuit, Lombok, Indonesia, mulai berdatangan, Minggu (24/9/2023). Kedatangan ini menandai tahap awal persiapan untuk MotoGP Indonesia 2023 yang akan berlangsung di Pertamina Mandalika International Circuit, Lombok, pada 13-15 Oktober 2023.
+
+Logistik tersebut tiba pertama kali di Bandara Internasional Ngurah Rai, Denpasar, setelah melakukan perjalanan jauh dari Barcelona, Spanyol, melalui jalur pengiriman udara. Setelah tiba di bandara, logistik ini kemudian diangkut dengan menggunakan truk kontainer menuju Sirkuit Mandalika dan dikawal langsung Head of Operation SBU Freight Forwarder dari PT Angkasa Pura Logistik, Dwi Andrianto.
+        </item>
+    </string-array>
+</resources>
+
+
+    <!--    Photo and Article Credits-->
+    <!--    Photo by Monstera Production: https://www.pexels.com/photo/person-holding-hardcover-book-with-blank-cover-6373291/-->
+    <!--    Photo by Anete Lusina from Pexels: https://www.pexels.com/photo/book-with-ornament-near-metal-tubes-on-table-4792668/-->
+    <!--    Photo by ready made: https://www.pexels.com/photo/smartphone-with-recycling-symbol-on-screen-placed-between-white-and-blue-textile-bag-on-marble-table-3850570/-->
+    <!--    Photo by Sam Lion: https://www.pexels.com/photo/trendy-young-asian-women-choosing-cotton-bags-in-fashion-boutique-5710151/-->
+    <!--    https://www.kompas.com/hype/read/2022/01/24/195000366/trending-youtube-ini-lirik-lagu-ajarkan-aku-arvian-dwi-->
+    <!--    https://entertainment.kompas.com/read/2020/05/06/074626010/coming-home-with-leila-chudori-dari-generasi-ketiga-setelah-amy-tan-->
+    <!--    https://entertainment.kompas.com/read/2020/01/14/100132310/novia-tersingkir-dari-indonesian-idol-setelah-dapat-5-standing-ovation-->
+    <!--    https://otomotif.kompas.com/read/2023/02/27/072200915/jokowi-mau-gelar-balapan-f1-di-indonesia-pada-tahun-depan?page=all-->
+    <!--    https://kilaskementerian.kompas.com/kemenparekraf/read/2023/02/15/152718727/f1-powerboat-di-danau-toba-siap-digelar-sandiaga-dapat-tarik-kunjungan-25000-->
+    <!--    https://bola.kompas.com/read/2023/09/25/15000078/kondisi-beckham-putra-jelang-bela-timnas-indonesia-di-asian-games-2022-->
+    <!--    https://bola.kompas.com/read/2023/09/25/12013048/timnas-indonesia-ke-16-besar-asian-games-2022-sananta-dan-beckham-gabung-->
+    <!--    https://www.kompas.com/motogp/read/2023/09/25/10010328/logistik-dari-barcelona-untuk-motogp-indonesia-2023-tiba-di-mandalika-->
